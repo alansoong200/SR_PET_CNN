@@ -1,8 +1,8 @@
-# UMASS_LOWELL_BIDSLab
+# Super-Resolution PET Using A Very Deep Convolutional Neural Network
 Biomedical Imaging & Data Science Laboratory
 
-## Super-Resolution PET Using A Very Deep Convolutional Neural Network
-
+## UMASS_LOWELL_BIDSLab
+Biomedical Imaging & Data Science Laboratory
 
 Lab's website:
 http://www.bidslab.org/index.html

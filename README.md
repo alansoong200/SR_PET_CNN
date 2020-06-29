@@ -1,5 +1,7 @@
 # Super-Resolution PET Using A Very Deep Convolutional Neural Network
-Biomedical Imaging & Data Science Laboratory
+The sriptes are based on Pytorch 0.4.0 on Python 2.7.
+
+The paper can be found [here](https://ieeexplore.ieee.org/document/8824683).
 
 ## Dataset
 

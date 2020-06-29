@@ -11,6 +11,10 @@ https://brainweb.bic.mni.mcgill.ca/brainweb/
 Alzheimer’s Disease Neuroimaging Initiative (ADNI) (Clinical Database):
 http://adni.loni.usc.edu/
 
+## Notes
+
+The codes will be moved to python 3.7.
+
 ## UMASS_LOWELL_BIDSLab
 Biomedical Imaging & Data Science Laboratory
 

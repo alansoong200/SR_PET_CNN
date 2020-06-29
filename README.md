@@ -6,7 +6,7 @@ Biomedical Imaging & Data Science Laboratory
 BrainWeb (Simulated Brain Database):
 https://brainweb.bic.mni.mcgill.ca/brainweb/
 
-Alzheimer’s Disease Neuroimaging Initiative (ADNI) (Clinical D):
+Alzheimer’s Disease Neuroimaging Initiative (ADNI) (Clinical Database):
 http://adni.loni.usc.edu/
 
 ## UMASS_LOWELL_BIDSLab

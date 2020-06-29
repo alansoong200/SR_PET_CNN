@@ -6,7 +6,7 @@ Positron emission tomography (PET) suffers from severe resolution limitations wh
 
 Published in: IEEE Transactions on Computational Imaging
 
-Page(s): 518 - 528
+Pages: 518 - 528
 
 DOI: 10.1109/TCI.2020.2964229
 

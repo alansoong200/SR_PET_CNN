@@ -37,6 +37,22 @@ http://adni.loni.usc.edu/
 
 The codes will be moved to python 3.7.
 
+## Citation
+If this work inspires you, please cite our paper:
+
+	@article{song_super-resolution_2020,
+		title = {Super-{Resolution} {PET} {Imaging} {Using} {Convolutional} {Neural} {Networks}},
+		volume = {6},
+		issn = {2333-9403},
+		doi = {10.1109/TCI.2020.2964229},
+		journal = {IEEE Transactions on Computational Imaging},
+		author = {Song, Tzu-An and Chowdhury, Samadrita Roy and Yang, Fan and Dutta, Joyita},
+		year = {2020},
+		note = {Conference Name: IEEE Transactions on Computational Imaging},
+		pages = {518--528},
+	}
+}
+
 ## UMASS_LOWELL_BIDSLab
 Biomedical Imaging & Data Science Laboratory
 
